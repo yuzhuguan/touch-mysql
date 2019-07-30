@@ -41,6 +41,14 @@ imei: qweqweqw
 
 上述的字段data是json格式，mysql5.7支持json查询： 比如查询emergencyNumber为某几个值，示例如下：
 
+查询json中某个key对应的值
+
+```
+SELECT id,JSON_EXTRACT(data,'$.emergencyNumber') FROM t_profile;
+```
+
+查询指定条件的结果
+
 ```
 SELECT id  FROM t_profile where JSON_CONTAINS(JSON_ARRAY("xxxx","ad","dadad"),data->'$.emergencyNumber');
 ```

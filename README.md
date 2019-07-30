@@ -4,6 +4,8 @@
 
    ```
    https://dev.mysql.com/doc/refman/5.7/en/json.html
+   
+   https://dev.mysql.com/doc/refman/5.7/en/json-utility-functions.html
    ```
    
 ## JPA 参考链接

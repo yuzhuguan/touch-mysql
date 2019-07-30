@@ -1,5 +1,17 @@
 # touch-mysql
 
+## 参考链接
+
+   ```
+   https://dev.mysql.com/doc/refman/5.7/en/json.html
+   ```
+   
+## JPA 参考链接
+
+```
+http://www.querydsl.com/static/querydsl/latest/reference/html/ch02.html#jpa_integration
+```
+
 ## 数据库表---> t_profile
 
 ```

@@ -3,9 +3,6 @@
 ## 子曰：学而时习之,不亦悦乎
 
 ```
-不错的教程
-https://github.com/jaywcjlove/mysql-tutorial
-
 总是要安装新的服务器
 https://www.fosstechnix.com/install-mysql5-on-ubuntu/
 ```
